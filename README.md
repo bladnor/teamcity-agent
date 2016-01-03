@@ -1,0 +1,2 @@
+This teamcity agent is based on the work of https://github.com/sjoerdmulder/teamcity-agent-docker and modified for my own requirements.
+The work is not finished jet and for now you should use the teamcity-agent of sjoerdmulder
